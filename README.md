@@ -6,7 +6,7 @@ Some text goes here.
 [![Coverage Status](https://coveralls.io/repos/github/station1/mod/badge.svg?branch=master)](https://coveralls.io/github/station1/mod?branch=master)
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://opensource.org/licenses/MIT)
 [![NPM version](https://img.shields.io/npm/v/swagger-mod.svg)](https://www.npmjs.com/package/swagger-mod)
-![npm](https://img.shields.io/npm/dw/swagger-mod.svg)
+[![npm](https://img.shields.io/npm/dw/swagger-mod.svg)](https://www.npmjs.com/package/swagger-mod)
 
 ## How to use the project
 
