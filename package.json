@@ -1,0 +1,24 @@
+{
+  "name": "mod",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nyc mocha --timeout 10000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://station1@github.com/station1/mod.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/station1/mod/issues"
+  },
+  "homepage": "https://github.com/station1/mod#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0",
+    "nyc": "^12.0.2"
+  }
+}
